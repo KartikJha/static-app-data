@@ -1,3 +1,5 @@
 {
-    "allowedProjects": []
+    "allowedProjects": {
+        "code-quiver": 1
+    }
 }
