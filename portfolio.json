@@ -1,5 +1,7 @@
 {
     "allowedProjects": {
-        "code-quiver": 1
+        "code-quiver": 1,
+	"local-browser-puppeter": 2,
+	"color-sticks": 3
     }
 }
